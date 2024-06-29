@@ -1,1 +1,1 @@
-Landing page for my projects.
+Landing page project to practice making webpages.
